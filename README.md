@@ -1,6 +1,6 @@
 # forest
 
-A step count app made by ourselves.You can download the apk in release package v1.0
+A step count app made by ourselves. You can download the apk in release package v1.0
 
 
 
